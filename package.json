@@ -1,6 +1,6 @@
 {
   "name": "vinyl-utils",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Utils for dealing with vinyl file streams",
   "main": "index.js",
   "scripts": {
